@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <car>
+        <averageSpeed unit="km/h">50</averageSpeed>
+        <cost unit="PLN">10000</cost>
+        <tripTime unit="min">10</tripTime>
+        <tripCost unit="PLN">3</tripCost>
+    </car>
+    <bus>
+        <averageSpeed unit="km/h">30</averageSpeed>
+        <cost unit="PLN">0</cost>
+        <tripTime unit="min">30</tripTime>
+        <tripCost unit="PLN">2</tripCost>
+    </bus>
+    <walking>
+        <averageSpeed unit="km/h">5</averageSpeed>
+        <cost unit="PLN">0</cost>
+        <tripTime unit="min">80</tripTime>
+        <tripCost unit="PLN">0</tripCost>
+    </walking>  
+</transport>

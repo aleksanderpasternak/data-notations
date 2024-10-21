@@ -1,0 +1,11 @@
+[
+    {
+        "name_of_passenger": "John Smith",
+        "class": "Economy",
+        "from": "Barcelona",
+        "to": "Madrid",
+        "date": "23-11-2024",
+        "train_number": 123,
+        "seat": 41
+    }
+]

@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "New Balance",
+        "founded": 1906,
+        "headquarters": "Boston, Massachusetts, USA",
+        "employees": 43000,
+        "products": [
+            "Casual Wear",
+            "Footwear",
+            "Sportswear"
+        ]
+    },
+    {
+        "name": "Uniqlo",
+        "founded": 1966,
+        "headquarters": "Costa Mesa, California, USA",
+        "employees": 38000,
+        "products": [
+            "Casual Wear",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]

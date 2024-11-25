@@ -1,0 +1,27 @@
+/*
+Add space between form fields: Use the margin-bottom property to add space between each form element. This will make the form look more organized and easier to read.
+
+Change the font: Use the font-family property to change the font used in the form to a more modern or readable font, such as Arial or Verdana.
+
+Style the submit button: Use the background-color and color properties to change the background color of the submit button and the text color. Make it stand out by giving it a different style.
+
+Add a border to input fields: Use the border property to give the text fields (input, select, textarea) a simple border, making them more defined.
+
+Change the width of the form fields: Use the width property to make the form fields wider (e.g., width: 100%), so that they stretch across the available space and are easier to fill out.
+*/
+input, select, textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px black;
+    width: 100%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="submit"] {
+    background-color: rebeccapurple;
+    color: white;
+}
+
